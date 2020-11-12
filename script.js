@@ -41,7 +41,7 @@ function hide(divID) {
 function hide1(){
 	window.setTimeout("hide('links1')",$delay0);
 }
-function hide12(){
+function hide2(){
 	window.setTimeout("hide('links2')",$delay0);
 }
 function hide3(){
